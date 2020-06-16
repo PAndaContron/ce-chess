@@ -5,10 +5,10 @@
 # Set COMPRESSED to "YES" to create a compressed program
 # ----------------------------
 
-NAME        ?= CHECKERS
+NAME        ?= CHESS
 COMPRESSED  ?= YES
 ICON        ?= iconc.png
-DESCRIPTION ?= "Checkers board game"
+DESCRIPTION ?= "Chess board game"
 
 # ----------------------------
 
