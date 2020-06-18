@@ -12,6 +12,4 @@ DESCRIPTION ?= "Chess board game"
 
 # ----------------------------
 
-#.DEFAULT_GOAL := debug
-
 include $(CEDEV)/include/.makefile
